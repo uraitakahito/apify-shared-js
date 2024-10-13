@@ -7,8 +7,8 @@
     "ChakrounAnas.turbo-console-log",
     // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
     "dbaeumer.vscode-eslint",
-    // https://marketplace.visualstudio.com/items?itemName=vitest.explorer
-    "vitest.explorer",
+    // https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
+    "Orta.vscode-jest",
     //
     // TypeScript
     //
